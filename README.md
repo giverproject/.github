@@ -6,4 +6,7 @@ Social Causes Marketplace
 
 * [3-minute Pitch](https://youtu.be/0ZllEEaVkq0?t=5203) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZllEEaVkq0?si=Ld7uOnHf6WV1wY6a&amp;start=5204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Introduction to Live Giver Pitch](pics/2023-12-08_10-2056.png)](https://www.youtube.com/embed/0ZllEEaVkq0?si=Ld7uOnHf6WV1wY6a&amp;start=5204 "Ethereum Argentina - Live Streaming - Sala GOERLI - 19/08")
+
+
+
